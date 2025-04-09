@@ -1,4 +1,4 @@
-👋 **Hello there**, my name is **Harshith Roopa Manjunath**. You can call me **Harsh** or **RM** for short. <br><br>
+👋 **Hello there**, my name is **Harshith Roopa Manjunath**. You can call me **Harsh** or **RM** for short. <br>
 💼 **Looking for Software Development Opportunities in Silicon Valley**  
 🤖 **Passionate about:** Machine Learning, UNIX-like Operating Systems, and Web Development  
 🌱 **Currently Learning:** How to train and fine-tune LLMs from scratch for automating tasks within a Linux sub-system.  
