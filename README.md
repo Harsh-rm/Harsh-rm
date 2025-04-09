@@ -76,9 +76,10 @@ _Jun 2019 – Aug 2019_
 
 ---
 
-## 🏅 **Certifications**  
-- Machine Learning A-Z  
-- SQL for Data Science  
+## 🏅 **Certifications**
+- Udemy: Complete NodeJS Developer
+- Udemy: Machine Learning A-Z  
+- UC Davis: SQL for Data Science  
 - Cisco Programming in Python  
-- Entrepreneurship  
-- IoT Development  
+- Cisco Entrepreneurship  
+- Cisco IoT Developer
