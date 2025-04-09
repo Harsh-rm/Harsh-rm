@@ -22,7 +22,7 @@
 
 ## 📬 **Contact Me**  
 - Email: [harshu98@gmail.com](mailto:harshu98@gmail.com)  
-- LinkedIn: [Harshith Roopa Manjunath](https://www.linkedin.com/in/harshith-rm-834806201/)
+- LinkedIn: [Harshith RM](https://www.linkedin.com/in/harsh-rm1998/)
 
 ---
 
